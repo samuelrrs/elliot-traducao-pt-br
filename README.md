@@ -1,16 +1,16 @@
-# Tradução PT-BR — The Adventures of Elliot: The Millennium Tales (PPSA32193)
+# Tradução PT-BR — The Adventures of Elliot: The Millennium Tales PARA PS5 (PPSA32193)
 
 **Não inclui o jogo.** Só o locres e o script de injeção.
 
 ## Como instalar
 
-### 1. Exe (recomendado)
+### Opção 1 — Exe (recomendado)
 
 Não precisa de Python. Dê dois cliques em `aplicar_traducao.exe` e escolha a pasta `PPSA32193-app0`.
 
 O `.exe` não vai no Git; baixe na [release](https://github.com/samuelrrs/elliot-traducao-pt-br/releases/latest).
 
-### 2. Python
+### Opção 2 — Python
 
 - **Python 3 instalado no PC.** Baixe em https://www.python.org/downloads/ e, na instalação, deixe marcada a opção **Add python.exe to PATH**. Depois:
 
