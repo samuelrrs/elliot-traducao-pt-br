@@ -2,6 +2,12 @@
 
 **Não inclui o jogo.** Só o locres e o script de injeção.
 
+## Screenshots
+
+![Aviso](screenshots/01-aviso.jpg)
+![Título](screenshots/02-titulo.jpg)
+![Diálogo](screenshots/03-dialogo.jpg)
+
 ## Como instalar
 
 ### Opção 1 — Exe (recomendado)
