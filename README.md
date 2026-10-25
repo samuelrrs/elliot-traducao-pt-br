@@ -10,9 +10,11 @@ Não precisa de Python. Dê dois cliques em `aplicar_traducao.exe` e escolha a p
 
 O `.exe` não vai no Git; baixe na [release](https://github.com/samuelrrs/elliot-traducao-pt-br/releases/latest).
 
+OU
+
 ### Opção 2 — Python
 
-- **Python 3 instalado no PC.** Baixe em https://www.python.org/downloads/ e, na instalação, deixe marcada a opção **Add python.exe to PATH**. Depois:
+- **Python 3 instalado no PC.** Baixe em https://www.python.org/downloads/ e, na instalação, deixe marcada a opção **Add python.exe to PATH**. Depois digite no terminal:
 
 ```bat
 pip install pycryptodome
