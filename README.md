@@ -39,5 +39,3 @@ Dump `PPSA32193-app0` (o mesmo do PS5, com `elliot\content\paks\elliot-ps5.pak`,
 Não funciona colando o pak de PC na pasta de paks. Neste dump o texto tem de ir **dentro** do `elliot-ps5.pak`.
 
 O script faz backup `elliot-ps5.pak.before-pt.bak` **fora** da pasta do jogo (ao lado do `PPSA32193-app0`). Troca o locres e atualiza o `ampr_emu.index`. Se já estiver aplicado, mostra `ja aplicado, nada a fazer`.
-
-No jogo, a opção de idioma que era English aparece como **Português**.
