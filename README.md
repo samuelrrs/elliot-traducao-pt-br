@@ -2,17 +2,21 @@
 
 **Não inclui o jogo.** Só o locres e o script de injeção.
 
-## Requisitos
+## Como instalar
+
+### 1. Exe (recomendado)
+
+Não precisa de Python. Dê dois cliques em `aplicar_traducao.exe` e escolha a pasta `PPSA32193-app0`.
+
+O `.exe` não vai no Git; baixe na [release](https://github.com/samuelrrs/elliot-traducao-pt-br/releases/latest).
+
+### 2. Python
 
 - **Python 3 instalado no PC.** Baixe em https://www.python.org/downloads/ e, na instalação, deixe marcada a opção **Add python.exe to PATH**. Depois:
 
 ```bat
 pip install pycryptodome
 ```
-
-- Dump `PPSA32193-app0` (o mesmo do PS5, com `elliot\content\paks\elliot-ps5.pak`, `ampr_emu.index` e `_DUPLEX_\eboot.bin`)
-
-## Como instalar
 
 Mantenha juntos: `en-Game.locres.bin`, `aplicar_traducao.py`, `aplicar_traducao.bat` (e o `.vbs`, se vier no zip).
 
@@ -25,6 +29,10 @@ Se preferir colar o caminho:
 ```bat
 aplicar_traducao.bat "D:\caminho\PPSA32193-app0"
 ```
+
+## Requisitos do dump
+
+Dump `PPSA32193-app0` (o mesmo do PS5, com `elliot\content\paks\elliot-ps5.pak`, `ampr_emu.index` e `_DUPLEX_\eboot.bin`).
 
 Não funciona colando o pak de PC na pasta de paks. Neste dump o texto tem de ir **dentro** do `elliot-ps5.pak`.
 
