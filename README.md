@@ -6,11 +6,10 @@
 
 ### Opção 1 — Exe (recomendado)
 
-Não precisa de Python. Dê dois cliques em `aplicar_traducao.exe` e escolha a pasta `PPSA32193-app0`.
+Dê dois cliques em `aplicar_traducao.exe` e escolha a pasta `PPSA32193-app0`.
 
 O `.exe` não vai no Git; baixe na [release](https://github.com/samuelrrs/elliot-traducao-pt-br/releases/latest).
 
-OU
 
 ### Opção 2 — Python
 
